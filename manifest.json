@@ -1,0 +1,27 @@
+{
+  "name": "Community Services Visual Enhancement",
+  "description": "Adds contrast to Community Services UI.",
+  "version": "0.1",
+  "manifest_version": 3,
+  "author": "Eastern Carolina Housing Organization",
+  "icons": {
+    "64": "cs-64.png",
+    "128": "cs-128.png",
+    "256": "cs-256.png",
+    "512": "cs-512.png"
+  },
+  "content_scripts": [
+    {
+      "css": ["cs-custom.css"],
+      "matches": ["https://sp5.servicept.com/*"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["cs-custom.css"],
+      "matches": ["https://sp5.servicept.com/*"]
+    }
+  ],
+  "permissions": ["tabs"],
+  "host_permissions": ["https://sp5.servicept.com/*"]
+}

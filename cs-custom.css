@@ -1,0 +1,23 @@
+.clientpt-tab-selected .sp5-TabPanelHeader,
+.sp5-Font-Large,
+.sp5-Font-LargeBold {
+  font-weight: 600 !important;
+}
+
+.font-gray {
+  color: #333 !important;
+}
+
+div.header-mode-anchor a,
+span.header-mode-anchor a,
+.cs-material-icon {
+  color: #1b3647 !important;
+}
+
+.sp5-ui-ContentPanel {
+  border: 1px solid #ccc !important;
+}
+
+table {
+  border-color: #ccc !important;
+}
