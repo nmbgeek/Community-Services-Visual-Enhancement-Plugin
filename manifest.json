@@ -22,6 +22,5 @@
       "matches": ["https://sp5.servicept.com/*"]
     }
   ],
-  "permissions": ["tabs"],
   "host_permissions": ["https://sp5.servicept.com/*"]
 }
