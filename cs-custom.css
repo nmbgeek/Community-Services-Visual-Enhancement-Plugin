@@ -21,3 +21,94 @@ span.header-mode-anchor a,
 table {
   border-color: #ccc !important;
 }
+
+.sp5-dashboard,
+.sp5-dashboard-hover,
+body
+  > div.cs5-DialogBox
+  > div
+  > table
+  > tbody
+  > tr:nth-child(2)
+  > td:nth-child(2)
+  > table
+  > tbody
+  > tr:nth-child(3)
+  > td
+  > table
+  > tbody
+  > tr:nth-child(1)
+  > td
+  > table
+  > tbody
+  > tr:nth-child(4)
+  > td
+  > table
+  > tbody
+  > tr:nth-child(2)
+  > td
+  > div
+  > div:nth-child(1)
+  > table
+  > tbody
+  > tr:nth-child(1)
+  > td
+  > table
+  > tbody
+  > tr
+  > td
+  > table
+  > tbody
+  > tr:nth-child(2)
+  > td
+  > table
+  > tbody
+  > tr
+  > td
+  > div,
+body
+  > div:nth-child(21)
+  > div
+  > table
+  > tbody
+  > tr:nth-child(2)
+  > td:nth-child(2)
+  > table
+  > tbody
+  > tr:nth-child(3)
+  > td
+  > table
+  > tbody
+  > tr
+  > td
+  > table
+  > tbody
+  > tr:nth-child(2)
+  > td
+  > table
+  > tbody
+  > tr:nth-child(2)
+  > td
+  > table
+  > tbody
+  > tr
+  > td
+  > table
+  > tbody
+  > tr:nth-child(1)
+  > td
+  > table
+  > tbody
+  > tr
+  > td
+  > table
+  > tbody
+  > tr:nth-child(2)
+  > td
+  > table
+  > tbody
+  > tr
+  > td
+  > div {
+  height: auto !important;
+}
