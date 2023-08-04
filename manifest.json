@@ -1,9 +1,9 @@
 {
-  "name": "Community Services Visual Enhancement",
-  "description": "Adds contrast to Community Services UI.",
-  "version": "0.1",
+  "name": "HMIS Visual Enhancement",
+  "description": "Adds contrast to the Community Services HMIS UI.",
+  "version": "0.2",
   "manifest_version": 3,
-  "author": "Eastern Carolina Housing Organization",
+  "author": "Clint Johnson",
   "icons": {
     "64": "cs-64.png",
     "128": "cs-128.png",
