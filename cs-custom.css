@@ -1,7 +1,6 @@
-.clientpt-tab-selected .sp5-TabPanelHeader,
+div[class*='-tab-selected'] .sp5-TabPanelHeader,
 .sp5-Font-Large,
-.sp5-Font-LargeBold,
-.skanpt-tab-selected .sp5-TabPanelHeader {
+.sp5-Font-LargeBold {
   font-weight: 600 !important;
 }
 

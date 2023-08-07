@@ -1,7 +1,7 @@
 {
   "name": "HMIS Visual Enhancement",
   "description": "Adds contrast to the Community Services HMIS UI.",
-  "version": "0.3",
+  "version": "0.4",
   "manifest_version": 3,
   "author": "Clint Johnson",
   "icons": {
